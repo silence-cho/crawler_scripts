@@ -1,0 +1,9 @@
+method: GET
+path: /list_detail_rate.htm?itemId=522608622465&spuId=385196899&sellerId=1813097055&order=3&currentPage=1&append=0&content=1&tagId=&posi=&picture=&groupId=&ua=098%23E1hvL9vLvxWvjQCkvvvvvjiPR2FZsjtRnL5ygjrCPmPwtjnbnLsUljlnPssv0jACvpvWzQvVMRx4zYMN63Fw9phv2nGvCrA97rMNzTiTz2yCvvpvvhCv9phv2nGvBaAX7rMNzQurzUwCvvpv9hCviQhvCvvvpZptvpvhvvCvpvGCvvLMMQvvvphvC9mvphvvv8yCvv9vvhhear6algyCvvOCvhE20RotvpvIvvCvpvvvvvvvvhZLvvvCAvvvBBWvvUhvvvCHhQvvv7QvvhZLvvvCfvyCvhACEsp6jX7reEuKNx%2FU%2Bb8reEyaUWmQrETXec3C%2Bnezr2UpwhKn3feAhC1TmEcBKFyzhmx%2F1WAK5d8rwZEldChz%2B1H%2Bm7zhe8TJ%2B3%2Bu9phvjeFz3YQ77rMNzTy9zWzPmQWFp79EKGXLh6jA4w5nSsyCvvpvvhCvRphvCvvvphvjvpvEqYMwzHdbyynFRphvCvvvphmCvpvZz%2FaDP2H4zYMN1rMG7zSS6aMfzE6%3D&needFold=0&_ksTS=1544535159282_3008&callback=jsonp3009
+scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: tk_trace=1; cna=D6qWFBjrFTwCAbRum0dOHb0V; t=1ec4c29a50a6f05ae4a30dea9fc68775; _tb_token_=eeb5ded8d95fe; cookie2=1ec4ab4428ea918848a82715195ac2c0; isg=BNLSh75j2mKEICaecI2ODET2I5h0S9YY6obGYZwr8gVVr3ephXJqj5SJG0s2304V
+referer: https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.4.35f52beajkhiCm&id=522608622465&skuId=4034704507255&user_id=1813097055&cat_id=2&is_b=1&rn=5b572a73cea30a222e5eb57ab911603f
+user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Mobile Safari/537.36
