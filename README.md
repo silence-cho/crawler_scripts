@@ -11,9 +11,7 @@ Useful scripts for web crawler and its application
 
 2. 利用爬虫自动登录
 
-	login.py  自动登录抽屉网并点赞
-	
-		  自动登录github并爬取版本库名称
+	login.py  自动登录抽屉网并点赞;   自动登录github并爬取版本库名称
 			  
 3. 利用爬虫爬取网页数据并持久化
 
